@@ -1,0 +1,185 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = гла́съ д҃ Дне́сь, я́кѡ со́лнце пресвѣ́тлое, возсія̀ на́мъ на возду́сѣ
+1	гла́съ	гла́съ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	д҃	пѧть	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+3	Дне́сь,	дне́сь,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+4	я́кѡ	я́кѡ	INTJ	I-	_	6	vocative	_	_
+5	со́лнце	со́лнце	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	пресвѣ́тлое,	пресвѣ́тлое,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	возсія̀	возсія̀ти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+8	на́мъ	мы	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	на	на	ADP	R-	_	10	case	_	_
+10	возду́сѣ	возду́хъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+
+# sent_id = 2
+# text = всечс̑тна́я ікѡ́на твоя̀, влд̑чце, луча́ми млс̑ти мі́ръ просвѣща́ющи, ю́же вели́кая рѡссі́а, я́кѡ нѣ́кій да́ръ бж҃е́ственный, свы́ше бл҃гоговѣ́йнѣ воспріи́мши, прославля́етъ тя̀, бг҃омт҃и, всѣ́хъ влд̑чцу, и ѿ тебѐ ро́ждшагося хрс̑та̀ бг҃а на́шего велича́етъ ра́достнѡ.
+1	всечс̑тна́я	всечс̑тна́я	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+2	ікѡ́на	ікѡ́на	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	_
+3	твоя̀,	твой,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+4	влд̑чце,	владычица,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+5	луча́ми	лучь	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	4	obl	_	_
+6	млс̑ти	милость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	мі́ръ	мі́ръ	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur|Strength=Strong	6	amod	_	_
+8	просвѣща́ющи,	просвѣща́ти,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+9	ю́же	иже	ADV	Df	_	8	advmod	_	_
+10	вели́кая	вели́кый	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+11	рѡссі́а,	рѡссі́а,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	я́кѡ	я́кѡ	INTJ	I-	_	11	vocative	_	_
+13	нѣ́кій	нѣ́кіи	INTJ	I-	_	12	vocative	_	_
+14	да́ръ	да́ръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+15	бж҃е́ственный	бж҃е́ственныи	INTJ	I-	_	11	vocative	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	20	cc	_	_
+17	свы́ше	свы́ше	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	acl	_	_
+18	бл҃гоговѣ́йнѣ	бл҃гоговѣ́йна	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	17	iobj	_	_
+19	воспріи́мши,	воспріяти,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	_
+20	прославля́етъ	прославля́ти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	_
+21	тя̀,	тя̀,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	_	_
+22	бг҃омт҃и,	бг҃омт҃и,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	_
+23	всѣ́хъ	всѣ́	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+24	влд̑чцу,	влд̑чца,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	_
+25	и	и	CCONJ	C-	_	24	cc	_	_
+26	ѿ	ѿ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	_
+27	тебѐ	тебе	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	nsubj	_	_
+28	ро́ждшагося	ро́ждшийся	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	_
+29	хрс̑та̀	хрс̑тос	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	_
+30	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	29	obj	_	_
+31	на́шего	на́шь	ADJ	Ps	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=1|Poss=Yes	30	nmod	_	_
+32	велича́етъ	велича́ти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	_
+33	ра́достнѡ.	ра́достнѡ.	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	_
+
+# sent_id = 3
+# text = Єму́же моли́ся, ѽ гпс̑жѐ цр҃и́це бцд̑е, да сохрани́тъ вся̂ гра́ды и страны̂ хрс̑тіа̂нскія невреди́мы
+1	Єму́же	иже	ADV	Df	_	2	advmod	_	_
+2	моли́ся,	моли́тися,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+3	ѽ	ѽ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+4	гпс̑жѐ	гпс̑жа	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
+5	цр҃и́це	цр҃и́ца	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	бцд̑е,	бцд̑а,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
+7	да	да	SCONJ	G-	_	8	mark	_	_
+8	сохрани́тъ	сохрани́ти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
+9	вся̂	весь	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	гра́ды	гра́дъ	PRON	Pp	Case=Acc|Number=Plur|Person=2|PronType=Prs	9	obj	_	_
+11	и	и	CCONJ	C-	_	9	cc	_	_
+12	страны̂	страна	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	nsubj	_	_
+13	хрс̑тіа̂нскія	хрс̑тіа̂нскій	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+14	невреди́мы	невреди́мъ	PRON	Pp	Case=Acc|Number=Plur|Person=2|PronType=Prs	13	obj	_	_
+
+# sent_id = 4
+# text = ѿ всѣ́хъ навѣ̂тъ вра́жіихъ
+1	ѿ	ѿ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+2	всѣ́хъ	весь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	навѣ̂тъ	навѣ̂тъ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	вра́жіихъ	вра́жіий	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	3	obj	_	_
+
+# sent_id = 5
+# text = и сп҃се́тъ вѣ́рою покланя́ющихся єгѡ̀ бж҃е́ственному и твоему̀ пречс̑тому ѡ́бразу, дв҃о неискусобра́чная. Ака́ѳістъ ко прест҃ѣ́й бцд̑ѣ, явле́нія ра́ди чудотво́рныя єя̀ ікѡ́ны тѵ́хфинскія Конда́къ а҃ Взбра́нной воево́дѣ, влд̑чцѣ на́шей бцд̑ѣ бл҃года́рствєнная пѣ̂нія воспису́емъ ѡ явле́ніи чу́дныя єя̀ ікѡ́ны, къ не́йже притека́ющіи при́снѡ избавля́ются
+1	и	и	CCONJ	C-	_	2	cc	_	_
+2	сп҃се́тъ	спасти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	_
+3	вѣ́рою	вѣ́ра	NUM	Ma	Case=Gen|Number=Dual	4	nummod	_	_
+4	покланя́ющихся	покланя́тися	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+5	єгѡ̀	и	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	_
+6	бж҃е́ственному	бж҃е́ственный	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	_
+7	и	и	CCONJ	C-	_	5	cc	_	_
+8	твоему̀	твой	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+9	пречс̑тому	пречс̑тый	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	8	iobj	_	_
+10	ѡ́бразу,	ѡ́бразъ,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+11	дв҃о	дева	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	неискусобра́чная.	неискусобра́чный.	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+13	Ака́ѳістъ	Ака́ѳість	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+14	ко	къ	ADP	R-	_	15	case	_	_
+15	прест҃ѣ́й	прест҃ой	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
+16	бцд̑ѣ,	бцд̑а,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	_
+17	явле́нія	явле́ніе	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	_
+18	ра́ди	ра́ди	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	17	iobj	_	_
+19	чудотво́рныя	чудотво́рный	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	_
+20	єя̀	єя̀	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	_
+21	ікѡ́ны	ікѡ́на	PRON	Pp	Case=Acc|Number=Plur|Person=2|PronType=Prs	20	obj	_	_
+22	тѵ́хфинскія	тѵ́хфинскій	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	advcl	_	_
+23	Конда́къ	Конда́къ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+24	а҃	аъ	ADP	R-	_	25	case	_	_
+25	Взбра́нной	Взбра́нный	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obl	_	_
+26	воево́дѣ,	воево́да,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	advcl	_	_
+27	влд̑чцѣ	влд̑чца	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	26	obl	_	_
+28	на́шей	на́ша	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	_
+29	бцд̑ѣ	бцд̑а	ADV	Df	_	30	advmod	_	_
+30	бл҃года́рствєнная	бл҃года́рствєнная	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	advcl	_	_
+31	пѣ̂нія	пѣ̂ніе	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	42	advcl	_	_
+32	воспису́емъ	восписати	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	35	obl	_	_
+33	ѡ	ѡ	INTJ	I-	_	35	vocative	_	_
+34	явле́ніи	явле́ніе	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	35	nsubj	_	_
+35	чу́дныя	чу́дный	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	advcl	_	_
+36	єя̀	єя̀	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	advcl	_	_
+37	ікѡ́ны,	ікѡ́на,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	42	dislocated	_	_
+38	къ	къ	ADP	R-	_	39	case	_	_
+39	не́йже	иже	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	42	nsubj	_	_
+40	притека́ющіи	притека́ющіий	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	39	acl	_	_
+41	при́снѡ	при́снѡ	INTJ	I-	_	42	vocative	_	_
+42	избавля́ются	избавля́тися	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 6
+# text = ѿ вра̂гъ ви́димыхъ и неви́димыхъ.
+1	ѿ	ѿ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	вра̂гъ	вра̂гъ	PRON	Pc	Case=Nom|Number=Sing|PronType=Rcp	1	iobj	_	_
+3	ви́димыхъ	ви́димый	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	и	и	CCONJ	C-	_	1	cc	_	_
+5	неви́димыхъ.	неви́димый.	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 7
+# text = Го́споди
+1	Го́споди	Го́сподь	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 8
+# text = Бо́же наш, Вели́кий в сове́те и ди́вный в де́лех, всея́ тва́ри
+1	Бо́же	Бо́гъ	ADV	Df	_	2	advmod	_	_
+2	наш,	наш,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
+3	Вели́кий	Вели́кий	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	в	въ	ADP	R-	_	5	case	_	_
+5	сове́те	сове́тъ	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+6	и	и	CCONJ	C-	_	5	cc	_	_
+7	ди́вный	ди́вный	INTJ	I-	_	10	vocative	_	_
+8	в	въ	ADP	R-	_	9	case	_	_
+9	де́лех,	де́ло,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	obl	_	_
+10	всея́	весь	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+11	тва́ри	тва́рь	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 9
+# text = Соде́телю, храня́й заве́т Твой и ми́лость
+1	Соде́телю,	Соде́тель,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	храня́й	хранити	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	заве́т	заве́тъ	ADP	R-	_	4	case	_	_
+4	Твой	Твой	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+5	и	и	CCONJ	C-	_	1	cc	_	_
+6	ми́лость	ми́лость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	conj	_	_
+
+# sent_id = 10
+# text = Твою́ лю́бящим Тя и соблюда́ющим повеле́ния
+1	Твою́	Твой	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+2	лю́бящим	лю́бящий	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+3	Тя	Ты	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	nsubj	_	_
+4	и	и	CCONJ	C-	_	3	cc	_	_
+5	соблюда́ющим	соблюда́ющий	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	повеле́ния	повеле́ние	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 11
+# text = Твоя́, всех в ну́ждах умиле́нныя прие́мляй сле́зы,
+1	Твоя́,	Твой,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	nsubj	_	_
+2	всех	весь	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+3	в	въ	ADP	R-	_	4	case	_	_
+4	ну́ждах	ну́жда	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+5	умиле́нныя	умиле́нный	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+6	прие́мляй	приимати	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7	сле́зы,	сле́за,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 12
+# text = Сего́ бо ра́ди прише́л еси́ в ра́бии зра́це,
+1	Сего́	Сей	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+2	бо	бо	ADV	Df	_	1	discourse	_	_
+3	ра́ди	ра́ди	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
+4	прише́л	придти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+5	еси́	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	xcomp	_	_
+6	в	въ	ADP	R-	_	7	case	_	_
+7	ра́бии	ра́бий	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+8	зра́це,	зра́къ,	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_

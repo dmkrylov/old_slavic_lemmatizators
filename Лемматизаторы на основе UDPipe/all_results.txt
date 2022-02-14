@@ -1,0 +1,163 @@
+FILE: cu_proiel-ud-test.txt
+MODEL: C:/Users/Arseny/AppData/Local/Programs/Python/Python39/Lib/site-packages/spacy_udpipe/models/old_church_slavonic-proiel-ud-2.5-191206.udpipe
+Length of corpus (in words): 10028
+Number of words accurately lemmatized: 9110
+Number of words accurately analyzed: 7867
+Accuracy of lemmatizator: 90.85 %
+Accuracy of morphological parser: 78.45 %
+--
+FILE: cu_proiel-ud-test.txt
+MODEL: C:\Users\Arseny\AppData\Local\Programs\Python\Python39\Lib\site-packages\spacy_udpipe\models\old_russian-torot-ud-2.5-191206.udpipe
+Length of corpus (in words): 10028
+Number of words accurately lemmatized: 5303
+Number of words accurately analyzed: 5384
+Accuracy of lemmatizator: 52.88 %
+Accuracy of morphological parser: 53.69 %
+--
+--
+FILE: cu_proiel-ud-dev.txt
+MODEL: C:/Users/Arseny/AppData/Local/Programs/Python/Python39/Lib/site-packages/spacy_udpipe/models/old_church_slavonic-proiel-ud-2.5-191206.udpipe
+Length of corpus (in words): 10100
+Number of words accurately lemmatized: 9233
+Number of words accurately analyzed: 8048
+Accuracy of lemmatizator: 91.42 %
+Accuracy of morphological parser: 79.68 %
+--
+FILE: cu_proiel-ud-dev.txt
+MODEL: C:\Users\Arseny\AppData\Local\Programs\Python\Python39\Lib\site-packages\spacy_udpipe\models\old_russian-torot-ud-2.5-191206.udpipe
+Length of corpus (in words): 10100
+Number of words accurately lemmatized: 5440
+Number of words accurately analyzed: 5511
+Accuracy of lemmatizator: 53.86 %
+Accuracy of morphological parser: 54.56 %
+--
+--
+FILE: cu_proiel-ud-train.txt
+MODEL: C:/Users/Arseny/AppData/Local/Programs/Python/Python39/Lib/site-packages/spacy_udpipe/models/old_church_slavonic-proiel-ud-2.5-191206.udpipe
+Length of corpus (in words): 37432
+Number of words accurately lemmatized: 37361
+Number of words accurately analyzed: 33515
+Accuracy of lemmatizator: 99.81 %
+Accuracy of morphological parser: 89.54 %
+--
+FILE: cu_proiel-ud-train.txt
+MODEL: C:\Users\Arseny\AppData\Local\Programs\Python\Python39\Lib\site-packages\spacy_udpipe\models\old_russian-torot-ud-2.5-191206.udpipe
+Length of corpus (in words): 37432
+Number of words accurately lemmatized: 5014
+Number of words accurately analyzed: 5218
+Accuracy of lemmatizator: 13.39 %
+Accuracy of morphological parser: 13.94 %
+--
+FILE: orv_rnc-ud-train.txt
+MODEL: C:\Users\Arseny\AppData\Local\Programs\Python\Python39\Lib\site-packages\spacy_udpipe\models\old_russian-torot-ud-2.5-191206.udpipe
+Length of corpus (in words): 14729
+Number of words accurately lemmatized: 7582
+Number of words accurately analyzed: 2049
+Accuracy of lemmatizator: 51.22 %
+Accuracy of morphological parser: 13.65 %
+--
+FILE: orv_rnc-ud-train.txt
+MODEL: C:/Users/Arseny/AppData/Local/Programs/Python/Python39/Lib/site-packages/spacy_udpipe/models/old_church_slavonic-proiel-ud-2.5-191206.udpipe
+Length of corpus (in words): 14729
+Number of words accurately lemmatized: 6491
+Number of words accurately analyzed: 2053
+Accuracy of lemmatizator: 44.06 %
+Accuracy of morphological parser: 13.93 %
+--
+FILE: orv_rnc-ud-test.txt
+MODEL: C:/Users/Arseny/AppData/Local/Programs/Python/Python39/Lib/site-packages/spacy_udpipe/models/old_church_slavonic-proiel-ud-2.5-191206.udpipe
+Length of corpus (in words): 20174
+Number of words accurately lemmatized: 9683
+Number of words accurately analyzed: 3235
+Accuracy of lemmatizator: 47.99 %
+Accuracy of morphological parser: 16.03 %
+--
+FILE: orv_rnc-ud-test.txt
+MODEL: C:\Users\Arseny\AppData\Local\Programs\Python\Python39\Lib\site-packages\spacy_udpipe\models\old_russian-torot-ud-2.5-191206.udpipe
+Length of corpus (in words): 20174
+Number of words accurately lemmatized: 11420
+Number of words accurately analyzed: 3235
+Accuracy of lemmatizator: 56.58 %
+Accuracy of morphological parser: 16.01 %
+--
+FILE: orv_torot-ud-test.txt
+MODEL: C:\Users\Arseny\AppData\Local\Programs\Python\Python39\Lib\site-packages\spacy_udpipe\models\old_russian-torot-ud-2.5-191206.udpipe
+Length of corpus (in words): 15359
+Number of words accurately lemmatized: 12462
+Number of words accurately analyzed: 10941
+Accuracy of lemmatizator: 81.14 %
+Accuracy of morphological parser: 71.24 %
+--
+FILE: orv_torot-ud-test.txt
+MODEL: C:/Users/Arseny/AppData/Local/Programs/Python/Python39/Lib/site-packages/spacy_udpipe/models/old_church_slavonic-proiel-ud-2.5-191206.udpipe
+Length of corpus (in words): 15359
+Number of words accurately lemmatized: 6241
+Number of words accurately analyzed: 5781
+Accuracy of lemmatizator: 40.63 %
+Accuracy of morphological parser: 37.63 %
+--
+FILE: orv_torot-ud-train.txt
+MODEL: C:\Users\Arseny\AppData\Local\Programs\Python\Python39\Lib\site-packages\spacy_udpipe\models\old_russian-torot-ud-2.5-191206.udpipe
+Length of corpus (in words): 118630
+Number of words accurately lemmatized: 118233
+Number of words accurately analyzed: 103803
+Accuracy of lemmatizator: 99.67 %
+Accuracy of morphological parser: 87.5 %
+--
+FILE: orv_torot-ud-train.txt
+MODEL: C:/Users/Arseny/AppData/Local/Programs/Python/Python39/Lib/site-packages/spacy_udpipe/models/old_church_slavonic-proiel-ud-2.5-191206.udpipe
+Length of corpus (in words): 118630
+Number of words accurately lemmatized: 48688
+Number of words accurately analyzed: 46938
+Accuracy of lemmatizator: 41.04 %
+Accuracy of morphological parser: 39.57 %
+--
+FILE: orv_torot-ud-dev.txt
+MODEL: C:\Users\Arseny\AppData\Local\Programs\Python\Python39\Lib\site-packages\spacy_udpipe\models\old_russian-torot-ud-2.5-191206.udpipe
+Length of corpus (in words): 15791
+Number of words accurately lemmatized: 13191
+Number of words accurately analyzed: 11917
+Accuracy of lemmatizator: 83.53 %
+Accuracy of morphological parser: 75.47 %
+--
+FILE: orv_torot-ud-dev.txt
+MODEL: C:/Users/Arseny/AppData/Local/Programs/Python/Python39/Lib/site-packages/spacy_udpipe/models/old_church_slavonic-proiel-ud-2.5-191206.udpipe
+Length of corpus (in words): 15791
+Number of words accurately lemmatized: 6540
+Number of words accurately analyzed: 6456
+Accuracy of lemmatizator: 41.42 %
+Accuracy of morphological parser: 40.88 %
+--
+FILE: russian_church_slavonic.txt
+MODEL: old_church_slavonic-proiel-ud-2.5-191206.udpipe
+Length of corpus (in words): 147
+Number of words accurately lemmatized: 54
+Number of words accurately analyzed: ---
+Accuracy of lemmatizator: 36.06 %
+Accuracy of morphological parser: ---
+--
+FILE: russian_church_slavonic.txt
+MODEL: old_russian-torot-ud-2.5-191206.udpipe
+Length of corpus (in words): 147
+Number of words accurately lemmatized: 45
+Number of words accurately analyzed: ---
+Accuracy of lemmatizator: 30.61 %
+Accuracy of morphological parser: ---
+--
+FILE: rnc_no_orth.txt
+MODEL: old_russian-torot-ud-2.5-191206.udpipe
+Length of corpus (in words): 146
+Number of words accurately lemmatized: 94
+Number of words accurately analyzed: ---
+Accuracy of lemmatizator: 64.38 %
+Accuracy of morphological parser: ---
+--
+--
+FILE: rnc_no_orth.txt
+MODEL: old_church_slavonic-proiel-ud-2.5-191206.udpipe
+Length of corpus (in words): 146
+Number of words accurately lemmatized: 55
+Number of words accurately analyzed: ---
+Accuracy of lemmatizator: 37.67 %
+Accuracy of morphological parser: ---
+--

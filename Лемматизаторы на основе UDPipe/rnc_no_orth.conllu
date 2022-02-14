@@ -1,0 +1,172 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = глас д днесь, яко солнце пресветлое, возсия нам на воздусе всечестная икона твоя, владычице, лучами милости мир просвещающи, юже великая россиа, яко некий дар божественный, свыше благоговейне восприимши, прославляет
+1	глас	гласъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	д	четыре	CCONJ	C-	_	1	cc	_	_
+3	днесь,	днесь,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	яко	яко	SCONJ	G-	_	6	mark	_	_
+5	солнце	сълньце	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	пресветлое,	пресветлое,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+7	возсия	възсияти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	dislocated	_	_
+8	нам	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	iobj	_	_
+9	на	на	ADP	R-	_	12	case	_	_
+10	воздусе	воздухъ	DET	Px	Case=Acc|Gender=Neut|Number=Sing	12	det	_	_
+11	всечестная	всечестьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	12	amod	_	_
+12	икона	икона	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	obl	_	_
+13	твоя,	твой,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	parataxis	_	_
+14	владычице,	владычица,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	лучами	лучь	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	18	obl	_	_
+16	милости	милость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	мир	миръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+18	просвещающи,	просвещати,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	_
+19	юже	иже	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	18	obj	_	_
+20	великая	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	19	amod	_	_
+21	россиа,	россиа,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	_
+22	яко	яко	SCONJ	G-	_	25	mark	_	_
+23	некий	некыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	24	amod	_	_
+24	дар	даръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+25	божественный,	божественный,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	ccomp	_	_
+26	свыше	съвыше	ADV	Df	_	28	advmod	_	_
+27	благоговейне	благоговейнинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	28	obj	_	_
+28	восприимши,	восприяти,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	advcl	_	_
+29	прославляет	прославляти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	28	xcomp	_	_
+
+# sent_id = 2
+# text = тя, богомати, всех владычицу,
+1	тя,	тя,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+2	богомати,	богоматерь,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+3	всех	вьсь	PROPN	Ne	Case=Loc|Gender=Masc|Number=Plur	2	obj	_	_
+4	владычицу,	владычица,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 3
+# text = и ѿ тебе рождшагося христа бога нашего величает радостно. ємуже молися,
+1	и	и	CCONJ	C-	_	11	cc	_	_
+2	ѿ	отъ	ADP	R-	_	3	case	_	_
+3	тебе	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+4	рождшагося	родитися	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	христа	христосъ	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	_
+6	бога	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	obj	_	_
+7	нашего	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	6	nmod	_	_
+8	величает	величати	ADP	R-	_	9	case	_	_
+9	радостно.	радостно	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	11	obl	_	_
+10	ємуже	иже	PRON	Pr	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	9	det	_	_
+11	молися,	молитися,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 4
+# text = ѽ госпоже царице богородице, да сохранит вся грады и страны христианския невредимы ѿ всех навет вражиих
+1	ѽ	о	INTJ	I-	_	4	vocative	_	_
+2	госпоже	госпожа	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	4	vocative	_	_
+3	царице	царица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	iobj	_	_
+4	богородице,	богородица,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	да	да	SCONJ	G-	_	6	mark	_	_
+6	сохранит	сохранити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+7	вся	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	8	det	_	_
+8	грады	градъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+9	и	и	CCONJ	C-	_	6	cc	_	_
+10	страны	страна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	12	obj	_	_
+11	христианския	христианскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	10	amod	_	_
+12	невредимы	невредимыи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	_
+13	ѿ	отъ	ADP	R-	_	14	case	_	_
+14	всех	вьсь	PROPN	Ne	Case=Loc|Gender=Masc|Number=Plur	12	obl	_	_
+15	навет	наветъ	ADP	R-	_	16	case	_	_
+16	вражиих	вражий	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	12	obl	_	_
+
+# sent_id = 5
+# text = и спасет верою покланяющихся его божественному и твоему пречистому образу, дево неискусобрачная. акафист ко престей богородице, явления ради чудотворныя ея иконы тихфинския кондак
+1	и	и	CCONJ	C-	_	2	cc	_	_
+2	спасет	спасти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	верою	вера	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+4	покланяющихся	покланятися	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	obj	_	_
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	_
+6	божественному	божественьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	_
+7	и	и	CCONJ	C-	_	6	cc	_	_
+8	твоему	твои	ADJ	Ps	Case=Dat|Gender=Neut|Number=Sing|Person=2|Poss=Yes	6	conj	_	_
+9	пречистому	пречистыи	ADJ	Pd	Case=Dat|Gender=Neut|Number=Sing	4	nmod	_	_
+10	образу,	образъ,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+11	дево	дева	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	appos	_	_
+12	неискусобрачная.	неискусобрачный	CCONJ	C-	_	11	cc	_	_
+13	акафист	акафистъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+14	ко	къ	ADP	R-	_	16	case	_	_
+15	престей	пресвятыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	16	amod	_	_
+16	богородице,	богородица,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+17	явления	явление	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	16	obl	_	_
+18	ради	ради	ADP	R-	_	17	case	_	_
+19	чудотворныя	чудотворьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	21	amod	_	_
+20	ея	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	det	_	_
+21	иконы	икона	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	17	conj	_	_
+22	тихфинския	тихфинскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	23	amod	_	_
+23	кондак	кондакъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	_
+
+# sent_id = 6
+# text = а взбранной воеводе, владычице нашей богородице благодарственная пения восписуем о явлении чудныя ея иконы, к нейже притекающии присно избавляются ѿ враг видимых и невидимыхъ. господи боже наш, великий в совете и дивный в делех, всея твари содетелю, храняй завет твой
+1	а	а	CCONJ	C-	_	2	cc	_	_
+2	взбранной	взбранныи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	воеводе,	воевода,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+4	владычице	владычица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	_
+5	нашей	нашь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	amod	_	_
+6	богородице	богородица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	_
+7	благодарственная	благодарственьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	_
+8	пения	пение	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	6	appos	_	_
+9	восписуем	восписати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+10	о	о	ADP	R-	_	11	case	_	_
+11	явлении	явление	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+12	чудныя	чудьныи	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	ея	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	det	_	_
+14	иконы,	икона,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+15	к	къ	ADP	R-	_	16	case	_	_
+16	нейже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	14	obl	_	_
+17	притекающии	притекати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	_
+18	присно	присьно	ADV	Df	_	17	advmod	_	_
+19	избавляются	избавлятися	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	expl	_	_
+20	ѿ	отъ	ADP	R-	_	21	case	_	_
+21	враг	врагъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	22	advmod	_	_
+22	видимых	видимыи	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	17	advcl	_	_
+23	и	и	CCONJ	C-	_	14	cc	_	_
+24	невидимыхъ.	невидимый	ADV	Df	_	34	advmod	_	_
+25	господи	господь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	34	vocative	_	_
+26	боже	богъ	ADV	Dq	PronType=Rel	27	advmod	_	_
+27	наш,	наш,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	34	advcl	_	_
+28	великий	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	30	amod	_	_
+29	в	у	ADP	R-	_	30	case	_	_
+30	совете	советъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+31	и	и	CCONJ	C-	_	30	cc	_	_
+32	дивный	дивьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	30	conj	_	_
+33	в	у	ADP	R-	_	34	case	_	_
+34	делех,	делех,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	37	advcl	_	_
+35	всея	вьсь	DET	Px	Case=Gen|Gender=Fem|Number=Sing	36	det	_	_
+36	твари	тварь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	34	obj	_	_
+37	содетелю,	содетель,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	_
+38	храняй	хранити	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	37	nsubj	_	_
+39	завет	заветъ	ADP	R-	_	40	case	_	_
+40	твой	твои	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	37	obl	_	_
+
+# sent_id = 7
+# text = и милость твою любящим тя и соблюдающим повеления твоя, всех в нуждах умиленныя приемляй слезы,
+1	и	и	CCONJ	C-	_	4	cc	_	_
+2	милость	милость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+3	твою	твои	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	nmod	_	_
+4	любящим	любящии	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	_
+5	тя	ты	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	xcomp	_	_
+6	и	и	CCONJ	C-	_	5	cc	_	_
+7	соблюдающим	соблюдати	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	conj	_	_
+8	повеления	повеление	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+9	твоя,	твои,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	всех	вьсь	PROPN	Ne	Case=Loc|Gender=Masc|Number=Plur	9	obj	_	_
+11	в	въ	ADP	R-	_	12	case	_	_
+12	нуждах	нужда	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	9	obl	_	_
+13	умиленныя	умиленьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	14	amod	_	_
+14	приемляй	приимати	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+15	слезы,	слеза,	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+
+# sent_id = 8
+# text = сего бо ради пришел еси в рабии зраце
+1	сего	сь	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	4	obj	_	_
+2	бо	бо	ADV	Df	_	4	discourse	_	_
+3	ради	ради	ADP	R-	_	4	vocative	_	_
+4	пришел	приити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
+5	еси	быти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+6	в	въ	ADP	R-	_	8	case	_	_
+7	рабии	рабии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	_
+8	зраце	зракъ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+
